@@ -1,0 +1,15 @@
+{
+  "name": "aks",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "sendgrid"
+  ],
+  "buildpacks": [
+
+  ]
+}
